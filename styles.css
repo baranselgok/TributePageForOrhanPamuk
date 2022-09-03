@@ -1,0 +1,41 @@
+body{
+	background-color: aqua;
+	margin: 30px;
+}
+.cerceve{
+	border: 3px solid;
+	width: 120px;
+  margin:9px;
+	
+}
+#photo{
+	float: right;
+	height: 30%;
+	width: 30%;
+	margin: 10px;
+}
+h3{
+	margin-top: 40px;
+}
+
+.byPamuk{
+	margin-bottom:20px;
+}
+
+#bitis{
+	text-align: center;
+}
+
+#tepe{
+	margin-left:50px;
+}
+#alis{
+	font-size: 20px;
+}
+
+#all-books{
+	width:500px;
+	height: 300px;
+	float: right;
+	margin-top: 50px;
+}
